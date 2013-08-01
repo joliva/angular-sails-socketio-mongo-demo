@@ -4,7 +4,6 @@
     "version": "0.0.0-8",
     "description": "a Sails application",
     "dependencies": {
-        "readable-stream": "~1.0.0",
         "sails": "0.8.895",
         "angular": "0.0.4",
         "coffee-script": "1.6.2",
